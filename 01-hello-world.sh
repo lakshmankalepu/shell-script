@@ -1,2 +1,3 @@
-this is a sample shell script
-this is just for fun
+#!/bin/bash
+
+echo "Hello, I am learning Devops"
